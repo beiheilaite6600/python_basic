@@ -6,6 +6,7 @@
 1. via `https://code.visualstudio.com/Download`   
 2. Install extension: `jupyter`
 3. Install extension: `live share`
+4. Install extension: `python`
 
 
 ### Install Git
