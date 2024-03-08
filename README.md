@@ -11,16 +11,17 @@
 
 ### Install Git
 1. via `https://git-scm.com/downloads`   
+2. Clone git repository via `git clone https://github.com/beiheilaite6600/python_basic.git`   
 
 
 ### Install Python
 1. via `https://www.python.org/downloads/`
 2. Add your python script file path into the system environment PATH in case settings not enabled in step #1. 
-3. Verify via  `pip -v`, you should see the python version information. 
+3. Verify via  `pip -v` or `pip3 -v`, you should see the python version information. 
 
 
-## How we collaboration with each other
-1. We use github repository to manage our code and learning progress, thus, register github account is needed.   
+## How we collaborate with each other
+1. We use github repository to manage our codes and learning progress, thus, register github account is needed.   
 2. We use VSCode live share extension to pair programming, thus, live share extension installation is needed. 
-3. Familiar with git. 
+3. Familiar with the usage of git. 
 
