@@ -2,7 +2,7 @@
 
 my_integer = 100 # Int
 my_float = 100.12 # float
-my_imaginary_number = 100 + j
+my_imaginary_number = complex(100, 1)
 
 # + - * /
 
