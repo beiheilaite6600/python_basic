@@ -1,7 +1,7 @@
-# Three types of Number: integer, float, imaginary number.
+# Three types of Number: integer, float, complex.
 my_integer = 100 # Int
 my_float = 100.12 # float
-my_imaginary_number = complex(100, 1) # imaginary number
+my_imaginary_number = complex(100, 1) # complex
 
 # + - * /
 a = my_integer + my_float
